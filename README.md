@@ -1,4 +1,2 @@
-# Solver_of_minimization_problems
-PyQt5
-numpy
-matplotlib
+# An application for solving minimization problems using the Harmony search algorithm
+The Harmony search algorithm has great accuracy and convenience in finding optimal solutions to computationally difficult optimization functions. A number of studies show that this algorithm has several innovative aspects in its operation that encourage its use in various fields such as engineering, telecommunications, robotics, construction, energy and healthcare. In this article, using the harmony search algorithm, various optimization problems aimed at minimization, including the basic structure of open source software developed for solving linear, non-linear, and discrete models, and its functionality shown in optimization examples.
