@@ -4,12 +4,17 @@ The Harmony Search (HS) algorithm, inspired by the improvisational process of mu
 # https://www.sciencedirect.com/science/article/pii/S2352711024001547
 
 Fazliddin Makhmudov, Dusmurod Kilichev, Young Im Cho,
-An application for solving minimization problems using the Harmony search algorithm,
-SoftwareX,
-Volume 27,
-2024,
-101783,
-ISSN 2352-7110,
-https://doi.org/10.1016/j.softx.2024.101783.
 
-Keywords: Harmony search algorithm; Minimization problem
+An application for solving minimization problems using the Harmony search algorithm,
+
+SoftwareX,
+
+Volume 27,
+
+2024,
+
+101783,
+
+ISSN 2352-7110,
+
+https://doi.org/10.1016/j.softx.2024.101783.
